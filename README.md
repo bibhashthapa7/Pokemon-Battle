@@ -8,8 +8,8 @@ decrease in health points of the losing Pokémon during a round.  If a Pokémon�
 reach 0 or below, it faints and is out of the battle.
 
 Valid Pokémon types are: Fire, Water, and Grass.  Each of the types can defeat exactly one other type. 
-   Water douses Fire
-   Fire burns Grass
-   Grass consumes Water 
+	Water douses Fire
+   	Fire burns Grass
+   		Grass consumes Water 
   
 #Description from Assignment 11.2, GCIS-123
