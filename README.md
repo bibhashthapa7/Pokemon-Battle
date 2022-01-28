@@ -12,4 +12,3 @@ Valid Pokémon types are: Fire, Water, and Grass.  Each of the types can defeat 
 
 Water douses Fire, Fire burns Grass, Grass consumes Water. 
   
-#Description from Assignment 11.2, GCIS-123
